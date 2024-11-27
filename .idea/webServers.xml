@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cc41f571-70f4-4b15-b487-3b6b9ce6dbc9" name="localhost" url="http://localhost/Practice E-commerce">
+        <fileTransfer mountedRoot="C:\Users\Asuku\Xampp App\htdocs\Practice E-commerce" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
