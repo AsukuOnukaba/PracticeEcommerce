@@ -52,7 +52,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST"){
     <p>New collections</p>
     <div class="pro-container">
         <div class="pro">
-            <img src="./Images/Avon%20EDT.jpg" alt="Perfume">
+            <img src="../Images/Avon%20EDT.jpg" alt="Perfume">
             <div class="description">
                 <h5>AVON Attraction for Him EDT</h5>
                 <div class="star">
@@ -78,7 +78,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST"){
             </div>
 
         <div class="pro">
-            <img src="./Images/AvonMaxine1.jpg" alt="Perfume">
+            <img src="../Images/AvonMaxine1.jpg" alt="Perfume">
             <div class="description">
                 <h5>AVON Maxime for Him EDT</h5>
                 <div class="star">
@@ -104,7 +104,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST"){
                 </div>
 
         <div class="pro">
-            <img src="./Images/Avon%20Suede.jpg" alt="Cream">
+            <img src="../Images/Avon%20Suede.jpg" alt="Cream">
             <div class="description">
                 <h5>AVON Black Suede Darul EDT</h5>
                 <div class="star">
@@ -131,7 +131,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST"){
 
 
         <div class="pro">
-            <img src="./Images/Avon%20Perceive.jpg" alt="">
+            <img src="../Images/Avon%20Perceive.jpg" alt="">
             <div class="description">
                 <h5>AVON Perceive Eau De Parfum</h5>
                 <div class="star">
@@ -157,7 +157,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST"){
            </div>
 
         <div class="pro">
-            <img src="./Images/BS1.jpg" alt="">
+            <img src="../Images/BS1.jpg" alt="">
             <div class="description">
                 <h5>The Body Shop Tea Tree Anti-Imperfection Night Mask</h5>
                 <div class="star">
@@ -183,7 +183,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST"){
             </div>
 
         <div class="pro">
-            <img src="./Images/Avon%20BodyShop.jpg" alt="HB pencils">
+            <img src="../Images/Avon%20BodyShop.jpg" alt="HB pencils">
             <div class="description">
                 <h5>The Body Shop Skin Defence Multi-Protection Face Mist SPF30 PA+</h5>
                 <div class="star">
@@ -209,7 +209,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST"){
             </div>
 
         <div class="pro">
-            <img src="./Images/BS2.jpg" alt="">
+            <img src="../Images/BS2.jpg" alt="">
             <div class="description">
                 <h5>The Body Shop File a Foot</h5>
                 <div class="star">
@@ -235,7 +235,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST"){
             </div>
 
         <div class="pro">
-            <img src="./Images/BS3.jpg" alt="">
+            <img src="../Images/BS3.jpg" alt="">
             <div class="description">
                 <h5>The Body Shop Shea Hand Cream</h5>
                 <div class="star">
