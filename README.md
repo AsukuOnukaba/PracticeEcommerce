@@ -16,7 +16,6 @@ This is a practice eCommerce website built with HTML, CSS, JavaScript, and PHP. 
   - HTML5
   - CSS3
   - JavaScript
-  - jQuery (optional for interactivity).
 
 - **Backend**:
   - PHP for server-side scripting
